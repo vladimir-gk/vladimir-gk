@@ -1,7 +1,4 @@
 
-<!--
-**vladimir-gk/vladimir-gk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Tere! 👋 Mina olen Vladimir
  
 ## 🎯 Andmeanalüütiku Karjääri Algus
