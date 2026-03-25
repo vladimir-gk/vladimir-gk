@@ -13,7 +13,7 @@
  
 - **Andmebaasid:** PostgreSQL, Supabase
 - **Programmeerimiskeeled:** Python (pandas, plotly)
-- **Visualiseerimine:** Power BI, Streamlit
+- **Visualiseerimine:** Power BI
 - **Versioonihaldus:** Git, GitHub
  
 ## 📂 Projektid
@@ -22,7 +22,7 @@
  
 ## 📫 Kontakt
  
-- **Email:** aspire478@gmail.com
+- **Email:** tbatba@gmail.com
 - **LinkedIn:** tba
  
 ---
