@@ -18,12 +18,12 @@
  
 ## 📂 Projektid
  
-- [**DACA Portfoolio**](https://github.com/anna-mets/daca-portfolio) - 11-nädalane õppeprojektid
+- [**DACA Portfoolio**](https://github.com/vladimir-gk/daca-portfolio) - 11-nädalane õppeprojektid
  
 ## 📫 Kontakt
  
 - **Email:** aspire478@gmail.com
-- **LinkedIn:** n/a
+- **LinkedIn:** tba
  
 ---
  
